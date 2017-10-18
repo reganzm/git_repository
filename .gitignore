@@ -1,0 +1,10 @@
+#过滤.pyc .pyo .pyd结尾的文件
+*.py[cod]
+#过滤.so文件
+*.so
+#过滤.egg结尾的文件
+*.egg
+#过滤.egg-info结尾的文件
+*.egg-info
+#过滤build文件
+build
